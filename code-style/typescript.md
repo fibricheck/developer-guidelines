@@ -31,7 +31,7 @@ For React Typescript projects, we are using this `tsconfig` configuration
     "outDir": "dist",
     "removeComments": true,
     "sourceMap": true,
-    "strictNullChecks": false,
+    "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
     "target": "es5",
     "skipLibCheck": true,
